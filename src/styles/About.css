@@ -4,6 +4,10 @@
   display: flex;
   flex-direction: column;
 }
+p{
+   width: 90%;
+  text-align: center;
+}
 
 .aboutTop {
   width: 100%;
